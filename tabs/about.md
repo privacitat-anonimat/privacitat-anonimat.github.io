@@ -24,4 +24,6 @@ S'ha de tenir en ment que, amb la tecnologia que hi ha actualment, no protegir-s
 És per això que, si un ciutadà i usuari d'Internet vol mantenir la seva privacitat i anonimat, ha d'aprendre com fer-ho i quines eines utilitzar.
 
 # Objectiu
+Hi ha la percepció de que per navegar de manera privada i anònima s'ha de ser molt bo amb els ordinadors o inclús ser un "hacker". Això, no només és fals, sinó que en el moment social i polític en el que vivim, és completament necessari que qualsevol ciutadà tingui unes nocions bàsiques sobre seguretat.
+
 Aquest és un bloc anònim que té com a objectiu difondre informació sobre privacitat i anonimat per a que qualsevol usuari, independenment dels seus coneixaments, pugui navegar per Internet amb més privacitat i més anonimat.

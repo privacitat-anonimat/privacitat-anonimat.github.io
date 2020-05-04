@@ -27,3 +27,18 @@ S'ha de tenir en ment que, amb la tecnologia que hi ha actualment, no protegir-s
 Hi ha la percepció de que per navegar de manera privada i anònima s'ha de ser molt bo amb els ordinadors o inclús ser un "hacker". Això, no només és fals, sinó que en el moment social i polític en el que vivim, és completament necessari que qualsevol ciutadà tingui unes nocions bàsiques sobre seguretat.
 
 Aquest és un bloc anònim que té com a objectiu difondre informació sobre privacitat i anonimat per a que qualsevol usuari, independenment dels seus coneixaments, pugui navegar per Internet amb més privacitat i més anonimat.
+
+A mesura que sigui possible, s'aniran crean entrades al blog relacionades amb privacitat i anonimat de les següents tipologies:
+* Conceptes específics
+* Informació sobre eines
+* Presentacions o classes completes
+* Resums (cheatsheets) per sintetizar conceptes
+
+# Contacte
+El blog és un projecte completament sense ànim de lucre i a disposició dels usuaris. És per això que s'obre una via de contacte directa: **privacitat_anonimat@protonmail.com**
+
+S'intentarà respondre el més aviat possible. Sigueu lliures d'enviar qualsevol inquietud:
+* Dubtes generals o específics
+* Correccións a alguna de les entrades
+* Idees noves per a fer una entrada
+* Idees per ampliar l'informació d'una entrada

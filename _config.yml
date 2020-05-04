@@ -115,7 +115,7 @@ defaults:
       location: Post
       breadcrumb:
         -
-          label: Entrades
+          label: Posts
           url: /
   -
     scope:
@@ -126,14 +126,14 @@ defaults:
     scope:
       path: tags
     values:
-      tab_active: Etiquetes
+      tab_active: Tags
       location: Tag
       breadcrumb:
         -
           label: Home
           url: /
         -
-          label: Etiquetes
+          label: Tags
           url: /tabs/tags/
   -
     scope:

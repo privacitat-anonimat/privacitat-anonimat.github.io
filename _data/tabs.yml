@@ -33,3 +33,8 @@
   icon: "fas fa-info"
   path: tabs
   url: about
+-
+  name: "Contacte"
+  icon: "fas fa-at"
+  path: tabs
+  url: contacte

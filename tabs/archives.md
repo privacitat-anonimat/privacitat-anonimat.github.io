@@ -1,5 +1,5 @@
 ---
-title: Entrades
+title: Archives
 
 # The Archives of posts.
 # v2.0

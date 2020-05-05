@@ -17,11 +17,11 @@
   name: "Etiquetes"
   icon: "fas fa-tags"
   path: tabs
-  url: etiquetes
+  url: tags
 -
   name: "Entrades"
   path: tabs
-  url: entrades
+  url: archives
   icon: "fas fa-archive"
 -
   name: "Xerrades"
@@ -29,7 +29,7 @@
   path: tabs
   url: xerrades
 -
-  name: "Informació"
+  name: "Sobre el blog"
   icon: "fas fa-info"
   path: tabs
-  url: informació
+  url: about

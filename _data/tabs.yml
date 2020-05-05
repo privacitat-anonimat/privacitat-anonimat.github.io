@@ -6,7 +6,7 @@
 
 
 -
-  name: Home
+  name: Blog
   icon: "fas fa-home"
 -
   name: Categories
@@ -14,17 +14,22 @@
   path: tabs
   url: categories
 -
-  name: "Tags"
+  name: "Etiquetes"
   icon: "fas fa-tags"
   path: tabs
   url: tags
 -
-  name: "Archives"
+  name: "Entrades"
   path: tabs
   url: archives
   icon: "fas fa-archive"
 -
-  name: "About"
+  name: "Sobre el blog"
   icon: "fas fa-info"
   path: tabs
   url: about
+-
+  name: "Xerrades"
+  icon: "fas fa-info"
+  path: tabs
+  url: xerrades

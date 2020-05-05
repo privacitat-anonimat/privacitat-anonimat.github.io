@@ -2,8 +2,8 @@
 title: Privacitat
 author: privacitat-anonimat
 date: 2020-05-04
-categories: [privacitat]
-tags: [introducció]
+categories: [conceptes]
+tags: [introducció,privacitat]
 ---
 
 # Què és la privacitat?
@@ -25,7 +25,7 @@ El dret a la privacitat està regulat per diferents normes, tant d'origen nacion
 El contingut d'aquest dret dona peu a que una persona pugui protegir no només la seva intimitat, sinó també el seu honor y reputació.
 
 ## Constitució
-En l'àmbit estrictament nacional, el dret a la privacitat està regulat a l'article 18, establint a l'hora els tres drets funamentals de la privacitat: el dret a l'honor, a l'initimitat i a la propia imatge.
+En l'àmbit estrictament nacional, el dret a la privacitat està regulat a l'article 18, establint alhora els tres drets funamentals de la privacitat: el dret a l'honor, a l'initimitat i a la propia imatge.
 
 A part, la Llei Orgánica 1/1982, de 5 de maig, dessarrolla la protecció civil del dret a l'honor, l'intimitat i l'imatge personal.
 

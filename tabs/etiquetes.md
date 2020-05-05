@@ -1,5 +1,5 @@
 ---
-title: Tags
+title: Etiquetes
 
 # All the Tags of posts.
 # v2.0

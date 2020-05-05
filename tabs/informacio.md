@@ -1,5 +1,5 @@
 ---
-title: About
+title: Informació
 
 # The About page
 # v2.0

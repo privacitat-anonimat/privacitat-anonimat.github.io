@@ -1,5 +1,5 @@
 ---
-title: About
+title: Sobre el Blog
 
 # The About page
 # v2.0

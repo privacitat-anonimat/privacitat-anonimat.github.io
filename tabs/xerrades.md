@@ -2,6 +2,13 @@
 title: Xerrades
 
 # Xerrades
+# v2.0
+# https://github.com/cotes2020/jekyll-theme-chirpy
+# © 2017-2019 Cotes Chung
+# MIT License
+---
+
+# Xerrades
 L'idea del blog va sorgir de la necessitat de fer arribar a tothom aquests coneixaments. És per això que a part de l'informació que es pot trobar al blog, també estem oberts a organitzar xerrades o tallers presencials per a qualsevol event o colectiu que estigui interessat.
 
 Actualment, hi ha les següents xerrades preparades:

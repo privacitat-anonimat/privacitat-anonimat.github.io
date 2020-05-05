@@ -10,9 +10,8 @@ tags: [introducció]
 No hi ha una definició exacta i acurada sobre aquest concepte, sobretot si fa referència a la privacitat digital.
 
 La [**Declaració Universal dels Drets Humans**](https://dudh.es/tag/privacidad/) diu el següent:
-```
-Ningú serà objecte d’injerències arbitràries a la seva vida privada, [...], ni d’atacs a la seva honra i reputació. Tota persona té el dret a la protecció de la llei contra tals injerències o atacs.
-```
+
+> Ningú serà objecte d’injerències arbitràries a la seva vida privada, [...], ni d’atacs a la seva honra i reputació. Tota persona té el dret a la protecció de la llei contra tals injerències o atacs.
 
 Altres organismes internacionals com les [**Nacions Unides**](https://www.acnur.org/fileadmin/Documentos/BDL/2017/10904.pdf) també s'han expressat amb l'objectiu d'adaptar-se a l'era digital.
 

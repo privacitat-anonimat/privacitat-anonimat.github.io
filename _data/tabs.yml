@@ -24,12 +24,12 @@
   url: archives
   icon: "fas fa-archive"
 -
+  name: "Xerrades"
+  icon: "fas fa-comment"
+  path: tabs
+  url: xerrades
+-
   name: "Sobre el blog"
   icon: "fas fa-info"
   path: tabs
   url: about
--
-  name: "Xerrades"
-  icon: "fas fa-info"
-  path: tabs
-  url: xerrades

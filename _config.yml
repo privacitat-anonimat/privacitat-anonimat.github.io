@@ -13,9 +13,9 @@ title: Privacitat i Anonimat                          # the main title
 tagline: Protegir-nos és feina de totes  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Bloc anònim que té com a objectiu difondre 
+  informació i coneixaments sobre privacitat i anonimat
+
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://privacitat-anonimat.github.io/'

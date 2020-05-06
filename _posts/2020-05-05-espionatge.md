@@ -175,3 +175,9 @@ Per cada cas escandalós que es destapa sobre els programes d'espionatge de la N
 La llei protegeix el nostre dret a fer-ho!
 
 Gràcies a WikiLeaks sabem que Gadafi va contractar serveis d'empreses europees per espiar als seus propis ciutadans i "neutralitzar" als dissidents abans que sortissin al carrer, i no és l'únic. A Espanya es proposen reformes del Codi Penal on es planteja empresonar a ciutadans per donar suport a una manifestació a través de Twitter. Quan els nostres representants no lluiten per defensar els nostres drets sinó contra el nostre dret a exercir-los, l'única resposta és la desobediència.
+
+
+
+# Referències
+* **El pequeño Libro Rojo del activista en la Red** de Marta Peirano, Rocaeditorial
+* **Restore Privacy**: [enllaç](https://restoreprivacy.com/5-eyes-9-eyes-14-eyes/)

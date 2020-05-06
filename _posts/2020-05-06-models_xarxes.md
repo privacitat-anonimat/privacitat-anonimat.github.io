@@ -3,7 +3,7 @@ title: Models de xarxes
 author: privacitat-anonimat
 date: 2020-05-06
 categories: [Conceptes,Bàsics]
-tags: [introducció,programari]
+tags: [xarxes,Internet]
 ---
 
 Tots utilitzem aplicacions o serveis a través d'Internet. Per exemple, les xarxes socials, el correu electrònic o aplicacions de missatgeria instantània. El que segurament molts de vosaltres no us heu plantejat és per on viatgen els missatges que nosaltres enviem.

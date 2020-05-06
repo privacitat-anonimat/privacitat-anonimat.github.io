@@ -2,8 +2,8 @@
 title: Privacitat
 author: privacitat-anonimat
 date: 2020-05-04
-categories: [Conceptes,Genèrics]
-tags: [introducció,privacitat]
+categories: [Conceptes,Lleis]
+tags: [privacitat]
 ---
 
 # Què és la privacitat?

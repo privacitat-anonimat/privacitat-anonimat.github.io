@@ -3,7 +3,7 @@ title: Espionatge Massiu
 author: privacitat-anonimat
 date: 2020-05-05
 categories: [Conceptes,Genèrics]
-tags: [introducció,espionatge]
+tags: [espionatge]
 ---
                                                                        
 # L'espionatge surt a la llum

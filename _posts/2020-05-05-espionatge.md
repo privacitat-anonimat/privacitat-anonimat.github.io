@@ -2,7 +2,7 @@
 title: Espionatge Massiu
 author: privacitat-anonimat
 date: 2020-05-05
-categories: [conceptes]
+categories: [Conceptes,Genèrics,Test]
 tags: [introducció,espionatge]
 ---
 

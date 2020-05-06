@@ -2,7 +2,7 @@
 title: Privacitat
 author: privacitat-anonimat
 date: 2020-05-04
-categories: [conceptes]
+categories: [Conceptes,Genèrics]
 tags: [introducció,privacitat]
 ---
 

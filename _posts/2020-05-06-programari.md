@@ -57,7 +57,7 @@ No confondre programari lliure amb programari gratuït. Hi ha empreses o desenvo
 * **Correus Electrònics**
 	* ProtonMail
 	* Tutanota
-* ** Missatgeria Instantània**
+* **Missatgeria Instantània**
 	* Signal
 	* Wire
 	* Riot (Matrix)
@@ -96,7 +96,7 @@ Programari propietari és qualsevol programa que no és lliure. El seu ús, dist
 * **Correus Electrònics**
 	* Gmail
 	* Outlook
-* ** Missatgeria Instantània**
+* **Missatgeria Instantània**
 	* Whatsapp
 	* Telegram
 	* LINE

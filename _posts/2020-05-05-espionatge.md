@@ -2,10 +2,10 @@
 title: Espionatge Massiu
 author: privacitat-anonimat
 date: 2020-05-05
-categories: [Conceptes,Genèrics,Test]
+categories: [Conceptes,Genèrics]
 tags: [introducció,espionatge]
 ---
-
+                                                                       
 # L'espionatge surt a la llum
 Tot va començar el desembre del 2012 quan [Greenwald](https://ca.wikipedia.org/wiki/Glenn_Greenwald), advocat, periodista i escriptor estatunidenc, va rebre una nota d'un desconegut demanant la seva clau pública per enviar-li amb urgència informació confidencial.
 
@@ -70,6 +70,8 @@ Cada país té les seves pròpies agències d'espionatge amb programes que tenen
 Amb el temps, s'han creat aliances internacionals d'intel·ligència que representen a diversos països d'arreu del món. Aquestes aliances treballen col·lectivament per obtenir i compartir informació obtinguda de l'espionatge massiu entre elles.
 
 Les agències d'espionatge no treballen soles. Juntament amb els proveïdors de telefonia i Internet i altres companyies tecnològiques, punxen les comunicacions per obtenir informació. Això implica que el teu proveïdor d'Internet, com per exemple Telefònica o Vodafone, són adversaris locals que espien als ciutadans per les agències d'espionatge. I no, això no és una teoria. Aquestes pràctiques estan ben documentades al documental [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)) o a [Room 641a](https://www.pbs.org/video/frontline-room-641a/) per exemple amb l'empresa de telefonia estadounedense AT&T i la NSA.
+
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-05-espionatge/5eyes.png)
 
 ## Aliança dels "5 eyes"
 L'història d'aquesta aliança comença durant la Segona Guerra Mundial i l'acord [UKUSA](https://ca.wikipedia.org/wiki/UKUSA) que va ser signat el 1946 quan va acabar la guerra. Aquest acord formalitza la col·laboració entre el Regne Unit i els Estats Units en temes de recol·lecció i compartició d'intel·ligència.

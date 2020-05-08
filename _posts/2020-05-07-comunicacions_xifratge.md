@@ -3,7 +3,7 @@ title: Comunicacions i xifratge
 author: privacitat-anonimat
 date: 2020-05-07
 categories: [Conceptes,Bàsics]
-tags: [xifratge,privacitat]
+tags: [xifratge,privacitat,Internet]
 ---
 
 Quan un usuari utilitza aplicacions que van per Internet per comunicar-se amb altres persones, es crea un canal de comunicació entre l'usuari que envia el missatge i el receptor. Tot i que aquest canal és invisible per l'usuari, la comunicació no es crea per art de màgia. Els missatges que s'intercanvien passen per un camí determinat i hi ha certs agents intermedis que poden veure la comunicació.
@@ -65,7 +65,7 @@ Alguns exemples:
 * Whatsapp a partir del 2016
 * Telegram, només xats secrets
 
-**NOTA**: que les comunicacions es xifrin extrem a extrem, no vol dir que no existeixin altres tècniques que poden utilitzar les empreses que controlen l'aplicació per llegir els missatges. Ho indico per treure el dubte dels que pensen que el xifrat extrem a extrem ja fa que Whatsapp i Telegram siguin aplicacions segures que protegeixen la privacitat de l'usuari.
+**Nota**: que les comunicacions es xifrin extrem a extrem, no vol dir que no existeixin altres tècniques que poden utilitzar les empreses que controlen l'aplicació per llegir els missatges. Ho indico per treure el dubte dels que pensen que el xifrat extrem a extrem ja fa que Whatsapp i Telegram siguin aplicacions segures que protegeixen la privacitat de l'usuari.
 
 # Conclusions
 Un indicador clau per saber si una aplicació es preocupa per la privacitat dels usuaris és si tenen implementat correctament el xifrat extrem a extrem. No hauríem d'utilitzar cap aplicació que no tingui com a mínim ee2e.

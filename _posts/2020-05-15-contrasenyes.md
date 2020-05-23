@@ -13,7 +13,7 @@ Per aquest motiu, és completament necessari i imprescindible que qualsevol pers
 # Paraula vs Frases
 Un debat que sempre hi ha hagut és el de si és millor utiltizar una paraula supercomplexa o una frase fàcil de recordar. A continuació mostrem un còmic de XKCD que en fa una comparació:
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-12-contrasenyes/comic.png)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-15-contrasenyes/comic.png)
 
 Bàsicament s'ha d'aconseguir buscar una balança entre seguretat i usabilitat. És a dir, una contrasenya de 8 caràcters és molt fàcil d'esbrinar. Si es vol complicar i afegir números en lloc de vocals o signes de puntuació, és molt probable que l'usuari se n'oblidi.
 

@@ -138,3 +138,4 @@ Recomanacions:
 * **ProtonMail - How long should your password be?**: [enllaç](https://protonmail.com/blog/how-long-should-my-password-be/)
 * **ProtonMail - 3 safety tips to create a strong password**: [enllaç](https://protonmail.com/blog/how-to-create-a-strong-password/)
 * **Estimació complexitat contrasenya**: [enllaç](https://www.betterbuys.com/estimating-password-cracking-times/)
+* **Surveillance Self-Defense - Creando contraseñas seguras**: [enllaç](https://ssd.eff.org/es/module/creando-contrase%C3%B1as-seguras)

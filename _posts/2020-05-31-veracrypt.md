@@ -216,27 +216,27 @@ Finalment, es crea la partició externa xifrada:
 
 L'únic que queda ara és crear la interna. Veuràs que el procés és molt semblant:
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-31-veracrypt/fantasma8png)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-31-veracrypt/fantasma8.png)
 
 Igual que amb l'externa, seleccionar els algorismes de xifratge i HASH:
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-31-veracrypt/fantasma9png)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-31-veracrypt/fantasma9.png)
 
 Aquí has d'indicar la mida de la partició fantasma. Com pots veure, no pot ser més gran que la que has posat al crear la partició externa:
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-31-veracrypt/fantasma10png)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-31-veracrypt/fantasma10.png)
 
 Introdueix la contrasenya:
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-31-veracrypt/fantasma11png)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-31-veracrypt/fantasma11.png)
 
 Aquí és molt important que sàpigues quin sistema operatiu utilitzaràs. Per exemple, FAT32 és compatible amb tots els SO però no et deixa emmagatzemar fitxers més grans que 4GB. Si utilitzaràs Windows i/o Linux, NTFS és una bona opció. Si només utilitzes Linux, hauries d'escollir Ext3. Si vols que sigui compatible amb tots els sistemes operatius, la millor opció serà exFAT (tot i que hauràs d'instal·lar un paquet al Linux):
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-31-veracrypt/fantasma12png)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-31-veracrypt/fantasma12.png)
 
 Genera les claus de xifratge:
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-31-veracrypt/fantasma13png)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-31-veracrypt/fantasma13.png)
 
 I ja hauràs acabat el procés per crear un fitxer, USB o disc dur xifrat amb una carpeta xifrada fantasma. Ara quan muntis el fitxer, només hauràs d'introduir la contrasenya corresponent per veure una partició o l'altre. El procés és completament idèntic al fet que tinguessis només una sola partició.
 

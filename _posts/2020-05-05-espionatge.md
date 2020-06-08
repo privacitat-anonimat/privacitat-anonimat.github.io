@@ -178,7 +178,7 @@ La llei protegeix el nostre dret a fer-ho!
 
 Gràcies a WikiLeaks sabem que Gadafi va contractar serveis d'empreses europees per espiar als seus propis ciutadans i "neutralitzar" als dissidents abans que sortissin al carrer, i no és l'únic. A Espanya es proposen reformes del Codi Penal on es planteja empresonar a ciutadans per donar suport a una manifestació a través de Twitter. Quan els nostres representants no lluiten per defensar els nostres drets sinó contra el nostre dret a exercir-los, l'única resposta és la desobediència.
 
-
+El nostre problema no és la NSA ni els governs corrupetes ni les empreses. El problema és que l'existencia d'aquesta informació ens fa vulnerables. Hem de posar cortines a la nostra casa. Començar a utilitzar criptografia a les nostres comunicacions i protegir la nostra privacitat. I si algú vol veure el que estem fent, que demani una ordre de registre.
 
 # Referències
 * **El pequeño Libro Rojo del activista en la Red** de Marta Peirano, Rocaeditorial

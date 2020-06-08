@@ -9,9 +9,11 @@ title: Contacte
 ---
 
 
-El blog és un projecte completament sense ànim de lucre i a disposició dels usuaris. És per això que s'obre una via de contacte directa: **privacitat_anonimat@protonmail.com**
+El blog és un projecte sense ànim de lucre i a disposició dels lectors. Per contactar amb nosaltres ho pots fer a través de les següents vies: 
+* **Email**: privacitat_anonimat@protonmail.com
+* **Twitter**: https://twitter.com/blog_privacitat
 
-S'intentarà respondre com més aviat millor. Sigueu lliures d'enviar qualsevol inquietud:
+Intentarem respondre com més aviat millor. Envia'ns qualsevol inquietud:
 * Dubtes generals o específics
 * Correccions a alguna de les entrades
 * Idees noves per a fer una entrada

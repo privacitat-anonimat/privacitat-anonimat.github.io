@@ -20,7 +20,7 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://privacitat-anonimat.github.io/'
 
-author: your_full_name                  # change to your full name
+author: Privacitat Anonimat                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
@@ -28,7 +28,7 @@ github:
   username: privacitat-anonimat             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: blog_privacitat            # change to your twitter username
 
 social:
   name: privacitat-anonimat                  # it will shows as the copyright owner in Footer
@@ -36,7 +36,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/privacitat-anonimat       # change to your github homepage
-    #- https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/blog_privacitat      # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username

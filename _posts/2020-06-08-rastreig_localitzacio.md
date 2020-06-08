@@ -1,7 +1,7 @@
 ---
 title: Rastreig Geolocalització Telèfons Mòbils
 author: privacitat-anonimat
-date: 2020-05-31
+date: 2020-06-08
 categories: [Conceptes,Avançats]
 tags: [espionatge,rastreig,mòbil]
 ---
@@ -26,13 +26,13 @@ Per a poder donar servei a un territori sense que hi hagi zones sense cobertura,
 
 Generalment les cel·les són de forma hexagonal, ja que aquesta figura geomètrica permet cobrir una regió geogràfica amb el mínim números de cel·les possibles sense deixar zones sense cobertura, permetent a més a més que la distància entre les antenes de la cel·la sigui la mateixa a tot el territori, evitant així problemes de mala recepció de senyal.
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-03-rastreig_localitzacio/celulas-telefonia-movil.jpg)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-08-rastreig_localitzacio/celulas-telefonia-movil.jpg)
 
 Cada cel·la utilitza un conjunt de freqüències de ràdio per facilitar la comunicació dins de la seva àrea. La distància d'aquestes freqüències es limita a la cel·la on es dóna el servei i per tal d'evitar problemes d'interferències, una mateixa freqüència no pot ser utilitzada simultàniament en cel·les contigües però si properes.
 
 Per exemple, a la següent imatge pots veure com la cel·la central opera a una certa freqüència però les cel·les contigües treballen amb una freqüència similar però diferent. No obstant això, a la cantonada superior hi ha una cel·la que opera a la mateixa freqüència que la central:
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-03-rastreig_localitzacio/freq.jpg)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-08-rastreig_localitzacio/freq.jpg)
 
 Cada cel·la té una estació base que tindrà una o més antenes o repetidors amb amplitud suficient per emetre i rebre senyals en aquell hexàgon.
 
@@ -40,14 +40,14 @@ A més a més, cada cel·la té vàries desenes de canals diferents. Un canal é
 
 A les àrees rurals, les antenes són omnidireccionals i se situen al centre de la cel·la, mentre que a àrees urbanes que tenen molts usuaris, les antenes s'acostumen a col·locara a tres vèrtexs no consecutiu de cada hexàgon:
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-03-rastreig_localitzacio/celes.jpg)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-08-rastreig_localitzacio/celes.jpg)
 
 ## Funcionament trucades
 Cada operador en una determinada zona geogràfica té un centre de control (Mobile Telephone Switching Office, MTSO) que s'encarrega d'identificar i canalitzar totes les connexions telefòniques que es produeixen entre els usuaris i les estacions de cada cel·la.
 
 Una trucada telefònica es produeix seguint els següents passos:
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-03-rastreig_localitzacio/trucada.jpeg)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-08-rastreig_localitzacio/trucada.jpeg)
 
 1. A l'encendre el telèfon mòbil, aquest busca un senyal per confirmar que el servei està disponible. Quan rep el senyal de l'estació més propera, el dispositiu s'hi connecta i s'identifica perquè la xarxa pugui verificar que l'usuari està adscrit a la companyia telefònica. Aquest procés és automàtic i es realitza quan l'usuari encén el mòbil.
 2. Un cop verificat, el telèfon mòbil envia un missatge a l'estació indicant que vol comunicar-se amb el número de telèfon amb qui l'usuari vol parlar. El missatge el rep el MTSO que controla la zona.
@@ -86,7 +86,7 @@ Si es fa només utilitzant una antena d'una cel·la, es pot arribar a saber la d
 * El temps que tarda el senyal entre el dispositiu i cada una de les torres
 * La intensitat del senyal rebuda a cada torre.
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-03-rastreig_localitzacio/torres.jpg)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-08-rastreig_localitzacio/torres.jpg)
 
 La triangulació és més efectiva en zones urbanes que en rurals, ja que com més distància hi hagi entre les antenes, més marge d'error hi ha.
 
@@ -95,14 +95,14 @@ La triangulació és més efectiva en zones urbanes que en rurals, ja que com m�
 
 Tot i que no poden escoltar les trucades o llegir els SMS, sí que poden obtenir l'identificador del telèfon i demanar la informació de més d'una torre de telèfon.
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-03-rastreig_localitzacio/tower_dump.jpeg)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-08-rastreig_localitzacio/tower_dump.jpeg)
 
 ## Simuladors de torres telefòniques (IMSI-Catcher)
 Els IMSI-Catcher simplement emmagatzemen els IMSIs dels dispositius mòbils propers fent-se passar per una torre telefònica autèntica.
 
 IMSI, International Mobile Subscriber Identity en anglès, és un identificador únic enllaçat amb la targeta SIM que utilitza el telèfon mòbil per autenticar-se a la xarxa de telefonia.
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-03-rastreig_localitzacio/imsi0.png)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-08-rastreig_localitzacio/imsi0.png)
 
 Una tècnica que poden utilitzar les forces de seguretat per localitzar i identificar dispositius mòbils és utilitzant un simulador de torre telefònica. Hi ha tres tipus d'atacs diferents que es poden dur a terme amb un simulador:
 1. Localització
@@ -115,7 +115,7 @@ Gotta Catch 'Em All: Understanding How IMSI-Catchers Exploit Cell Networks
 
 En xarxes GSM, els mòbils es connectaran a l'antena de telefonia que tingui el senyal més forta. Una vegada el dispositiu ha identificat l'antena, comença la negociació per connectar-s'hi. L'estació telefònica demana al mòbil que enviï els algorismes de xifratge que pot utilitzar. Després, l'estació envia el seu identificador i el mòbil respon enviant el seu IMSI. El telèfon l'envia perquè d'aquesta manera la companyia telefònica pot validar que l'usuari d'aquella targeta SIM és client i està pagant les quotes.
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-03-rastreig_localitzacio/imsi.png)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-08-rastreig_localitzacio/imsi.png)
 
 Si hi ha un simulador pel mig, el procediment és exactament el mateix. Bàsicament, el mòbil fa tota la negociació amb el simulador i el simulador, a la vegada, la fa amb la torre telefònica. Quan el mòbil envia el seu IMSI, el simulador l'emmagatzema i es desconnecta del telèfon, perquè aquest es connecti a la xarxa real, i comença la negociació amb el següent dispositiu mòbil que s'hi connecti.
 
@@ -149,7 +149,7 @@ Quan un dispositiu vol saber la seva ubicació a través de GPS, el primer que f
 
 Quan el mòbil ha capturat el menys quatre senyals de diferents satèl·lits, ja pot posicionar-se en les tres dimensions utilitzant una tècnica anomenada Trileració. El mòbil traça una circumferència al voltant de cada satèl·lit i el punt on es creuen totes les circumferències és la localització actual del dispositiu.
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-03-rastreig_localitzacio/satelit.jpg)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-08-rastreig_localitzacio/satelit.jpg)
 
 Com més senyals obtingui, més precís i amb menys marge d'error serà la localització que calculi.
 
@@ -163,17 +163,17 @@ L'advocat i polític alemany Malte Spitz va sol·licitar a la seva companyia tel
 
 Spitz va rebre un [document](https://docs.google.com/spreadsheets/d/1PMjIkymwzYNGhENCi9BZst63H-UPagYgPO6DwHVdskU/edit?authkey=COCjw-kG&hl=en_GB&hl=en_GB&authkey=COCjw-kG#gid=0) amb més de 35000 línies d'informació: a qui trucava, qui li trucava, el consum de dades d'Internet i les posicions geogràfiques de les antenes a les quals es connectava el seu telèfon mòbil.
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-03-rastreig_localitzacio/malte_spitz_dades.png)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-08-rastreig_localitzacio/malte_spitz_dades.png)
 
 Malte Spitz va donar [aquest document](https://docs.google.com/spreadsheets/d/1PMjIkymwzYNGhENCi9BZst63H-UPagYgPO6DwHVdskU/edit?authkey=COCjw-kG&hl=en_GB&hl=en_GB&authkey=COCjw-kG#gid=0) a una empresa de tractament de dades perquè fessin una aplicació per visualitzar-les de manera més senzilla.
 
 El resultat és un [mapa interactiu](https://www.zeit.de/datenschutz/malte-spitz-data-retention), publicat el 2011, on pots veure tot el que la companyia de telefonia Deutsche Telekom sabia sobre la vida de Malte Spitz. Només per tenir un smartphone a la butxaca, la companyia ja sabia on vivia, quan dormia, on treballava, quan viatjava, quan agafava el tren o el cotxe, quan tenia una cita o organitzava protestes públiques. A una xerrada a Ted el 2012, Spitz ho va resumir amb la frase: "*Era la meva vida*".
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-03-rastreig_localitzacio/malte_spitz_mapa.png)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-08-rastreig_localitzacio/malte_spitz_mapa.png)
 
 A part de la geolocalització, l'empresa de telefonia també obté molta altra informació com les trucades, SMS, ús d'internet, a qui truques més sovint o a qui menys. Tota aquesta informació la van tractar i van fer [diagrames interactius](https://public.tableau.com/views/MalteSpitzCallData/MalteSpitzcalldatadashboard?:embed=y&:showVizHome=no) perquè fos més fàcil de veure:
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-03-rastreig_localitzacio/malte_spitz_diagrama.png)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-08-rastreig_localitzacio/malte_spitz_diagrames.png)
 
 Malte Spitz va començar un activisme dedicat a la defensa de l'autodeterminació informativa i protecció de les dades personals. El 2014 va publicar un llibre anomenat *What are you doing with my data?*.
 
@@ -184,7 +184,7 @@ Des d'òrgans policials, van demanar a la companyia de telefonia que els hi don�
 
 D'aquesta manera, el govern Ucraïnès va utilitzar les tecnologies per a identificar a tots els manifestants que estaven a les protestes sense que ni ells en fossin conscients. Uns dies després, n'hi va haver molts que van rebre un SMS al seu telèfon mòbil amb el missatge "*Has sigut identificat com a participant d'una protesta massiva*":
 
-![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-03-rastreig_localitzacio/ucraina.png)
+![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-06-08-rastreig_localitzacio/ucraina.png)
 
 Tot i que la policia utilitza aquesta tècnica freqüentment, el fet que el govern enviés aquest missatge va tenir grans implicacions psicològiques entre els manifestants. Les protestes van anar escalant i el govern Ucraïnès va aprofitar per canviar la legalitat de diverses activitats que els manifestants havien dut a terme durant mesos.
 

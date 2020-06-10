@@ -168,17 +168,13 @@ Alguns exemples del perquè cal evitar-ho quan es busca privacitat i anonimat s�
 * HideMyAss, una VPN amb seu a Regne Unit, va ser obligat per la justícia a recol·lectar dades dels usuaris i donar-les a les autoritats.
 
 # Conclusions
-La majoria de persones pensen que no tenen res a ocultar i per tant, res a témer. Això és una mentida que per molt que es repeteixi no deixa de ser-ho. Per començar, sabem que les agències d'intel·ligència dels Estats Units i el Regne Unit ens espien, però no sabem que fan la resta de països.
-
 La xarxa no va ser dissenyada per convertir-se en el que s'ha convertit i les empreses encarregades de redissenyar-la no han invertit en infraestructura per protegir la privacitat de l'usuari. Internet s'ha omplert de programes espies i pàgines web fraudulentes que tenen com a objectiu robar i recol·lectar informació dels usuaris.
 
-Per cada cas escandalós que es destapa sobre els programes d'espionatge de la NSA, hi ha probablement milers d'empreses desconegudes que acumulen dades i les intercanvien. Hauríem de protegir-nos perquè Internet s'ha convertit en un lloc perillós, però no seguim comportant-nos com si fos un lloc on no passa res dolent.
+Per cada cas escandalós que es destapa sobre els programes d'espionatge de la NSA, hi ha probablement milers d'empreses desconegudes que acumulen dades i les intercanvien. Hauríem de protegir-nos perquè Internet s'ha convertit en un lloc perillós, però seguim comportant-nos com si fos un lloc on no passa res dolent.
 
-La llei protegeix el nostre dret a fer-ho!
+Gràcies a WikiLeaks sabem que Gadafi va contractar serveis d'empreses europees per espiar als seus propis ciutadans i "neutralitzar" als dissidents abans que sortissin al carrer, i no és l'únic. Gràcies a Snowden, sabem que les agències d'intel·ligència dels Estats Units i el Regne Unit ens espien. A Espanya proposen reformes del Codi Penal on es planteja empresonar a ciutadans per donar suport a una manifestació a través de Twitter. Quan els nostres representants no lluiten per defensar els nostres drets sinó contra el nostre dret a exercir-los, l'única resposta és la desobediència.
 
-Gràcies a WikiLeaks sabem que Gadafi va contractar serveis d'empreses europees per espiar als seus propis ciutadans i "neutralitzar" als dissidents abans que sortissin al carrer, i no és l'únic. A Espanya es proposen reformes del Codi Penal on es planteja empresonar a ciutadans per donar suport a una manifestació a través de Twitter. Quan els nostres representants no lluiten per defensar els nostres drets sinó contra el nostre dret a exercir-los, l'única resposta és la desobediència.
-
-El nostre problema no és la NSA ni els governs corrupetes ni les empreses. El problema és que l'existencia d'aquesta informació ens fa vulnerables. Hem de posar cortines a la nostra casa. Començar a utilitzar criptografia a les nostres comunicacions i protegir la nostra privacitat. I si algú vol veure el que estem fent, que demani una ordre de registre.
+La majoria de persones pensen que no tenen res a ocultar i per tant, res a témer. Això és una mentida que per molt que es repeteixi no deixarà de ser-ho. El problema no és la NSA ni els governs corruptes ni les empreses. El problema és que l'existencia d'aquesta informació ens fa vulnerables. Hem de posar cortines a la nostra casa. Començar a utilitzar criptografia a les nostres comunicacions i protegir la nostra privacitat. I si algú vol veure el que estem fent, que demani una ordre de registre.
 
 # Referències
 * **El pequeño Libro Rojo del activista en la Red** de Marta Peirano, Rocaeditorial

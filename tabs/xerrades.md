@@ -9,11 +9,10 @@ title: Xerrades
 ---
 
 
-La idea del blog va sorgir de la necessitat de fer arribar a tothom aquests coneixements. És per això que a part de la informació que es pot trobar al blog, també estem oberts a organitzar xerrades o tallers presencials per a qualsevol esdeveniment o col·lectiu que estigui interessat.
+La idea del blog va sorgir de la necessitat de fer arribar a tothom aquests coneixements. És per això que a part de la informació que es pot trobar al blog, també estem oberts a organitzar xerrades o tallers, presencials o online, per a qualsevol esdeveniment o col·lectiu que estigui interessat.
 
-No obstant això, si estiguéssiu interessats en xerrades o tallers més específics o sobre alguna eina en particular, feu-nos-ho saber igualment.
+Actualment, hi ha les següents xerrades preparades, però si estiguessis més interessat en algunes entrades en concret del blog o en algun tema més específic, feu-nos-ho saber igualment. Estem obertes a crear nou contingut i noves xerrades!
 
-Actualment, hi ha les següents xerrades preparades:
 ## Curs de seguretat, privacitat i anonimat
 * **Duració**: 1:30h
 * **Nivell**: per a qualsevol usuari. No es necessiten coneixements previs.

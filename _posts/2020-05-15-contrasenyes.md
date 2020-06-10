@@ -31,11 +31,11 @@ La millor manera de saber com defensar-se és saber com ho fan els atacants per 
 
 Per un atacant hi ha dues maneres d'obtenir les contrasenyes dels usuaris. La primera és atacar el panell d'inici de sessió de la pàgina objectiu, però hi ha el problema que normalment aquests panells estan ben protegits amb controls per evitar aquests tipus d'atacs.
 
-La segona manera, segur que n'has sentit a parlar, quan per les notícies expliquen que uns hackers han robat X milions d'usuaris d'una pàgina web. El que fan és trobar un conjunt de vulnerabilitats que els hi permeten obtenir la base de dades. Si la pàgina té unes mesures de seguretat acceptables, no emmagatzemarà les contrasenyes dels usuaris en clar, sinó que només guardarà el seu [HASH](https://ca.wikipedia.org/wiki/Funci%C3%B3_hash). Per tant, els hackers no obtenen directament les contrasenyes.
+La segona manera, segur que n'has sentit a parlar, quan per les notícies expliquen que uns hackers han robat milions d'usuaris d'una pàgina web. El que fan és trobar un conjunt de vulnerabilitats que els hi permeten obtenir la base de dades. Si la pàgina té unes mesures de seguretat acceptables, no emmagatzemarà les contrasenyes dels usuaris en clar, sinó que només guardarà el seu [HASH](https://ca.wikipedia.org/wiki/Funci%C3%B3_hash). Per tant, els hackers no obtenen directament les contrasenyes.
 
 No obstant això, com que ara ja no han d'atacar al servidor sinó que ho tenen tot en els seus ordinadors, poden llençar els atacs que expliquem a continuació sense que els controls de la pàgina web els molestin i amb més potencia de computació.
 
-Per tant, si algun dia llegiu que han robat usuaris d'una pàgina en el que en teniu un, és molt recomanable que canvieu la contrasenya, ja que tard o d'hora l'obtindran.
+Per tant, si algun dia llegeixes que han robat usuaris d'una pàgina en el que en teniu un, és molt recomanable que canviïs la contrasenya, ja que tard o d'hora l'obtindran.
 
 ## Forca Bruta
 Consisteix a provar totes les combinacions possibles donada una certa llargada. Per exemple, si fos una contrasenya de 4 caràcters, es provaria "aaaa", "aaab", "aaac", ..., "zzzz". Aquests atacs són lents però t'assegures de provar totes les combinacions possibles, així que si aconsegueixes acabar-lo tens un 100% de probabilitats de trobar la contrasenya.

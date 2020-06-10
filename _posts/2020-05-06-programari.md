@@ -10,9 +10,9 @@ Els programes i aplicacions que utilitzem han estat desenvolupats per persones o
 
 Quan parlem de privacitat és molt important que l'usuari sàpiga exactament que està fent el programa. És per això, que és necessari conèixer els diferents tipus de llicències que poden utilitzar quan es llença al mercat un programa o aplicació.
 
-Bàsicament, a nosaltres ens interessen els següents tipus: el programari lliure i el propietari. Començaré posant un exemple perquè es vegi clarament la diferència abans d'entrar en aspectes més tècnics:
+Bàsicament, a nosaltres ens interessen els següents tipus: el programari lliure i el propietari. Començarem posant un exemple perquè es vegi clarament la diferència abans d'entrar en aspectes més tècnics:
 
-Imaginem que hi ha una caixa amb gatets petits penjada d'una grua a uns metres del terra i un panell amb dos botons que tenen una única funció: deixar la caixa a terra sense que passi res als gatets.
+Imagina que hi ha una caixa amb gatets petits penjada d'una grua a uns metres del terra i un panell amb dos botons que tenen una única funció: deixar la caixa a terra sense que passi res als gatets.
 
 El primer botó hi ha el següent missatge:
 > Maquinària de la grua privada. Copyright 2020 Empresa1234. Tots els drets reservats. Totes les peticions per veure el funcionament de la grua seran denegades, però prometem deixar els gatets a terra sans i estalvis.
@@ -20,9 +20,9 @@ El primer botó hi ha el següent missatge:
 El segon botó té el següent missatge:
 > Maquinària de la grua lliure i disponible per a tothom. Mecànics d'arreu del món hi han contribuït i han revisat la maquinària i el seu funcionament. Sigues lliure de revisar-la i preguntar qualsevol dubte als mecànics abans de clicar el botó.
 
-Sabent això, quin botó clicaríeu? La decisió és senzilla. La majoria segurament clicaríeu el botó amb el qual heu pogut assegurar que tot el procés per deixar els gatets a terra és segur.
+Sabent això, quin botó clicaries? La decisió és senzilla. Segurament clicaries el botó amb el qual t'has pogut assegurar que tot el procés per deixar els gatets a terra és segur.
 
-Al món digital passa exactament el mateix, però en lloc de grues i maquinària parlem del codi font de les aplicacions. Algunes podem saber exactament el que fan i d'altres ens hem de fiar del que diu l'empresa.
+Al món digital passa exactament el mateix, però en lloc de grues i maquinària parlem del codi font de les aplicacions. Algunes podem saber exactament el que fan i d'altres ens hem de fiar del que diu l'empresa que l'ha desenvolupat.
 
 ![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-06-programari/opensource.jpeg)
 
@@ -105,11 +105,11 @@ Programari propietari és qualsevol programa que no és lliure. El seu ús, dist
 	* Google Drive
 
 # Conclusions
-Si us preocupeu per la privacitat i anonimat mentre navegueu per Internet o utilitzeu dispositius electrònics, és molt important que prioritzeu l'ús de programari lliure davant del privat. Moltes vegades això serà complicat, com en el cas dels sistemes operatius per mòbils, o tediós perquè requerirà un esforç individual en aprendre a utilitzar programes poc coneguts pel públic en general.
+Si et preocupa la privacitat mentre navegues per Internet o utilitzes dispositius electrònics, és molt important que prioritzis l'ús de programari lliure davant del privat. Moltes vegades això serà complicat, com en el cas dels sistemes operatius per mòbils, o tediós perquè requerirà un esforç individual en aprendre a utilitzar programes poc coneguts pel públic en general.
 
-Heu d'entendre que el programari privat és completament obtús. Per exemple, el sistema operatiu Windows envia a Microsoft cada acció i tecla que cliqueu al vostre ordinador. Quan busqueu per Google, aquest crea perfils digitals que creua després amb els de Facebook i Instagram.
+No obstant això, pensa que el programari privat és completament obtús. Per exemple, el sistema operatiu Windows envia a Microsoft cada acció i tecla que cliques al teu ordinador. Quan fas cerques per Google, aquest crea perfils digitals que creua després amb els de Facebook i Instagram.
 
-La majoria de vegades requerirà un esforç, però personalment penso que val molt la pena i que, un cop ho proveu, veureu que no és tan complicat d'utilitzar un Linux o Signal, per exemple, del que us havien fet creure.
+La majoria de vegades requerirà un esforç, però al final sempre valdrà molt la pena i que, un cop ho provis, veuràs que no és tan complicat d'utilitzar un Linux o Signal, per exemple, del que t'havien fet creure.
 
 # Referències
 * **GNU**: [enllaç](https://www.gnu.org/philosophy/categories.ca.html)

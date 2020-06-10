@@ -6,9 +6,9 @@ categories: [Conceptes,Bàsics]
 tags: [xarxes,Internet]
 ---
 
-Tots utilitzem aplicacions o serveis a través d'Internet. Per exemple, les xarxes socials, el correu electrònic o aplicacions de missatgeria instantània. El que segurament molts de vosaltres no us heu plantejat és per on viatgen els missatges que nosaltres enviem.
+Tots utilitzem aplicacions o serveis a través d'Internet. Per exemple, les xarxes socials, el correu electrònic o aplicacions de missatgeria instantània. El que segurament no t'has plantejat és per on viatgen els missatges que envies.
 
-Quan pensem en termes de privacitat i anonimat digital, és clau que ens plantegem per on es mou tota la informació que intercanviem amb una persona o amb un servei. D'aquesta manera entendrem com la xarxa està estructurada i podrem identificar quins són els riscos i quina és la millor manera de protegir-nos.
+En termes de privacitat i anonimat digital, és clau que et plantegis per on es mou tota la informació que intercanvies amb una persona o amb un servei. D'aquesta manera entendràs com la xarxa està estructurada i podràs identificar quins són els riscos i quina és la millor manera de protegir-te.
 
 Existeixen tres tipus de models de xarxes. La diferència més gran que tenen és per on passa la informació i qui la controla.
 
@@ -19,7 +19,7 @@ Si per a qualsevol motiu el node central talla el flux de dades, sigui perquè h
 
 ![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-06-models_xarxes/centralitzada.png)
 
-La majoria d'aplicacions del mercat funcionen amb models centralitzats. Per exemple, si volem enviar un correu electrònic amb Gmail, el correu anirà des del nostre ordinador fins als servidors de Google, Google mirarà el destinatari (SPOILER ALERT: també el llegeix) i l'enviarà a la persona de destí.
+La majoria d'aplicacions del mercat funcionen amb models centralitzats. Per exemple, si vols enviar un correu electrònic amb Gmail, el correu anirà des del nostre ordinador fins als servidors de Google, Google mirarà el destinatari (SPOILER ALERT: també el llegeix) i l'enviarà a la persona de destí.
 
 En termes de privacitat aquest és el pitjor dels tres models. Bàsicament perquè tota la comunicació i informació que intercanvien els usuaris està sota el control i domini de l'empresa que ofereix el servei. Això implica que no només saben l'origen i el destí de totes les comunicacions, sinó que també poden llegir-les o emmagatzemar-les.
 
@@ -31,7 +31,7 @@ A diferència de les xarxes centralitzades, aquest model no té un únic node ce
 
 ![](https://raw.githubusercontent.com/privacitat-anonimat/privacitat-anonimat.github.io/master/img/2020-05-06-models_xarxes/descentralitzada.png)
 
-Aquest model és millor en termes de privacitat que el centralitzat sempre que els nodes centrals no siguin de domini d'una única empresa. Si continuem amb l'exemple de Gmail, està clar que Google té servidors distribuïts a diversos països el qual el converteix en un model de xarxa descentralitzada. Tanmateix, com ja haureu pensat, això no implica una millora en la privacitat de l'usuari.
+Aquest model és millor en termes de privacitat que el centralitzat sempre que els nodes centrals no siguin de domini d'una única empresa. Si continuem amb l'exemple de Gmail, està clar que Google té servidors distribuïts a diversos països el qual el converteix en un model de xarxa descentralitzada. Tanmateix, com ja hauràs pensat, això no implica una millora en la privacitat.
 
 Un bon exemple seria la xarxa social Mastodon, similar a Twitter però de codi obert i descentralitzada. On els nodes centrals que formen la xarxa són propietat de persones individuals majoritàriament. D'aquesta manera, no hi ha un monopoli per part d'una empresa i no hi ha cap node que controli tota la informació.
 
@@ -47,9 +47,9 @@ Les xarxes distribuïdes són una molt bona manera de protegir la privacitat de 
 **Nota**: les aplicacions P2P tenen la contrapartida que es pot filtrar la IP de l'origen i el destí. Per tant, és un punt a tenir en compte si es prioritza l'anonimat.
 
 # Conclusions
-Quan busqueu aplicacions a utilitzar, sempre heu de prioritzar les descentralitzades i distribuïdes. No obstant això, a part del model, també és important tenir en compte altres punts com el xifrat, si és programari lliure o les polítiques de privacitat.
+Quan busques aplicacions a utilitzar, sempre hauries de prioritzar les descentralitzades i distribuïdes. No obstant això, a part del model, també és important tenir en compte altres punts com el xifrat, si és programari lliure o les polítiques de privacitat.
 
-Us trobareu que hi ha molt poques aplicacions descentralitzades i les poques que hi ha, no acaben de funcionar com un esperava. Per exemple, aplicacions per fer videotrucades que durant la trucada hi ha petits talls o que si hi ha molts usuaris connectats a la vegada, es perdi la comunicació.
+Veuràs que hi ha molt poques aplicacions descentralitzades i les poques que hi ha, no acaben de funcionar com t'esperaves. Per exemple, aplicacions per fer videotrucades que durant la trucada hi ha petits talls o que si hi ha molts usuaris connectats a la vegada, es perdi la comunicació.
 
 
 # Referències

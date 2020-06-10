@@ -84,19 +84,19 @@ No obstant això, existeixen algunes excepcions:
 
 
 # Privacitat digital
-La privacitat digital consisteix a protegir el que s'emmagatzema sobre nosaltres quan naveguem i utilitzem Internet.
+La privacitat digital consisteix a protegir el que s'emmagatzema sobre tu quan navegues i utilitzes Internet.
 
 Actualment no hi ha una privacitat real per l'usuari estàndard que navega per la xarxa, ja que tot el que es transmet queda emmagatzemat dins de servidors controlats per governs, autoritzats o empreses, incloent-hi fotografies, missatges o gustos personals.
 
 El dret a tenir una vida privada ha d'incloure i defendre en tot cas la llibertat i dignitat de les persones, i ha de convertir-se en un requisit indispensable per exercir altres garanties fonamentals, com la llibertat d'expressió.
 
-Bàsicament, quan naveguem per Internet, les pàgines a les quals accedim emmagatzemen informació nostra. Per exemple, la localització, quin navegador i sistema operatiu utilitzem, quina IP tenim, a quines pàgines entrem... D'aquesta manera, poden crear un perfil digital i publicitar o mostrar alguns productes o informació o altres.
+Bàsicament, quan navegues per Internet, les pàgines a les quals accedeixes emmagatzemen informació teva. Per exemple, la localització, quin navegador i sistema operatiu utilitzes, quina IP tens o a quines altres pàgines accedeixes. D'aquesta manera, poden crear un perfil digital i fer publicitat específica o mostrar alguns productes o uns altres.
 
-Fa uns anys es va descobrir que hi havia empreses venien bitllets d'avió que guardaven els perfils digitals dels usuaris i quan veien que un accedia repetidament a una destinació en concret, apujaven els preus perquè entenien que aquella persona estava interessada.
+Fa uns anys es va descobrir que hi havia empreses que venien bitllets d'avió, que guardaven els perfils digitals dels usuaris i quan veien que un accedia repetidament a una destinació en concret, apujaven els preus perquè entenien que aquella persona estava interessada.
 
-O botigues en línia, si un usuari es connectava des d'un Apple, apujaven els preus dels productes perquè entenien que pel fet de tenir un ordinador Apple aquesta tenia un poder adquisitiu elevat.
+O botigues en línia, que si un usuari es connectava des d'un Apple, apujaven els preus dels productes perquè entenien que pel fet de tenir un ordinador Apple aquesta tenia un poder adquisitiu elevat.
 
-Això encara ha anat a més gràcies a l'èxit que han tingut les xarxes socials. Empreses privades que emmagatzemen informació sobre els seus usuaris incloent relacions personals, fotos, vídeos i imatges. Permanent això no només crear un perfil digital sinó també enllaçar-lo amb la identitat real.
+Això encara ha anat a més gràcies a l'èxit que han tingut les xarxes socials. Empreses privades que emmagatzemen informació sobre els seus usuaris incloent relacions personals, fotos, vídeos i imatges. El problema és que no només creen un perfil digital sinó que també enllacen amb la identitat real.
 
 A més a més, l'usuari no és conscient realment de quina informació emmagatzemen ni que en fan ni tampoc pot fer res en l'àmbit legal, ja que al crear l'usuari i acceptar el "Términos y condiciones de uso" dóna poder a l'empresa per tractar i comercialitzar la seva informació sense incomplir les lleis de protecció de dades i privacitat.
 

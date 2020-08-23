@@ -6,7 +6,7 @@ categories: [Conceptes,Bàsics]
 tags: [contrasenya]
 ---
 
-Les persones són l'esglaó més dèbil en qualsevol sistema de seguretat i per extensió, les contrasenyes que escullen. La gran majoria d'atacs amb els que es roben comptes de xarxes socials o fotografies personals, s'aconsegueixen mitjançant una sèrie d'atacs, que comentarem després, que només funcionen si la contrasenya és dèbil.
+Les persones són l'esglaó més dèbil en qualsevol sistema de seguretat i per extensió, les contrasenyes que escullen. La gran majoria mètodes amb els que es roben comptes de xarxes socials o fotografies personals, s'aconsegueixen mitjançant una sèrie d'atacs, que comentarem després, que només funcionen si la contrasenya és dèbil.
 
 Per aquest motiu, és completament necessari i imprescindible que qualsevol persona que es preocupi per la seva privacitat sàpiga crear i utilitzi contrasenyes fortes.
 

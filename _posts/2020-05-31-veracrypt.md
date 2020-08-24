@@ -17,6 +17,13 @@ Quan es xifra un disc dur o un USB, tot el disc queda xifrat: els noms dels fitx
 
 Els fitxers es poden copiar i moure d'un volum de VeraCrypt com si fos un disc normal, ja que els fitxers es desxifren automàticament "on-the-fly" (en memoria/RAM) mentre l'usuari els llegeix i es tornen a xifrar quan l'usuari els guarda.
 
+# Informació
+* **Dificultat d'instal·lació**: baixa
+* **Dificultat d'ús**: mitjana
+* **Nivell Privacitat**: elevat
+* **Nivell Anonimat**: no aplica, ja que s'executa en local
+* **Coneixements previs**: cap
+
 # Menú
 Pot semblar complicat d'utilitzar a primera vista, però ja veuràs que en realitat és molt senzill. Bàsicament és com si fos el "Mi PC" o "Equipo" de Windows, on cada vegada que es connecta un USB, apareix i quan es vol treure, s'ha d'extreure amb seguretat.
 

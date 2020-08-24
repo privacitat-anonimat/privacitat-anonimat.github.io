@@ -49,17 +49,17 @@ En casos de força major, les autoritats o governs poden arribar a aconseguir TO
 ## Informació privada
 Informació privada fa referència a la teva IP, que permetria a la policia identificar-te gràcies al teu ISP (companyia que et dóna el servei d'Internet), la data i hora a les que has iniciat sessió, quin navegador utilitzes o des de quins dispositius utilitzes el compte, entre d'altres.
 
-Autoritats i governs podrien aconseguir-la si aconsegueixen una citació, una ordre judicial o qualsevol notificació judicial vàlida.
+Autoritats i governs podrien aconseguir-la si aconsegueixen una **citació, una ordre judicial o qualsevol notificació judicial** vàlida.
 
 ## Contingut de les comunicacions
 Contingut de les comunicacions fa referència totes les converses privades (DM) que has tingut amb altres usuaris de Twitter, fotografies o Twits que hagis publicat, independentment de si el teu compte és públic o privat.
 
-Autoritats i governs les poden obtenir si presenten una ordre de registre vàlida emesa per una autoritat amb jurisdicció i competència sobre Twitter.
+Autoritats i governs les poden obtenir si presenten una **ordre de registre** vàlida emesa per una autoritat amb jurisdicció i competència sobre Twitter.
 
 ## Requeriments urgents
 Els dos punts anteriors és la burocràcia estàndard per aconseguir informació sobre un compte. La política de privacitat de Twitter ofereix un mètode ràpid si és una urgència extrema.
 
-En cas de perill de mort o lesions físiques greus d'una persona, Twitter podria donar tota la informació que les autoritats o governs demanen sense necessitat que aquestes tinguin una ordre judicial o de registre.
+En cas de perill de mort o lesions físiques greus d'una persona, Twitter podria donar tota la informació que les autoritats o governs demanen **sense necessitat que aquestes tinguin una ordre judicial o de registre**.
 
 # Notificacions als usuaris
 Per [transparència](https://help.twitter.com/en/rules-and-policies/defending-and-respecting-our-users-voice) la política de Twitter indica que si s'accepta el requeriment de les autoritats o governs sobre la divulgació d'informació d'un usuari, Twitter notificarà a aquest usuari enviant-li una còpia del requeriment presentat per les autoritats.

@@ -35,7 +35,7 @@ Twitter emmagatzema informació dels Logs durant un màxim de 18 dies: IP, naveg
 
 La informació del perfil i dels Twits seran emmagatzemades fins que eliminis el compte. Una vegada eliminat el compte, es guardaran durant 30 dies per si canvies d'idea, després Twitter ho eliminarà (o això diuen).
 
-No obstant això, és possible que si busques per Google o altres cercadors, encara trobis Twits o contingut que vas pujar. Això és degut al fet que algunes pàgines guarden contingut en [caché](https://es.wikipedia.org/wiki/Cach%C3%A9_(inform%C3%A1tica). Per més informació sobre com eliminar-ho: [enllaç](https://help.twitter.com/en/safety-and-security/remove-twitter-profile-from-google-search).
+No obstant això, és possible que si busques per Google o altres cercadors, encara trobis Twits o contingut que vas pujar. Això és degut al fet que algunes pàgines guarden contingut en [caché](https://es.wikipedia.org/wiki/Cach%C3%A9_web). Per més informació sobre com eliminar-ho: [enllaç](https://help.twitter.com/en/safety-and-security/remove-twitter-profile-from-google-search).
 
 # Requeriments per obtenir informació sobre comptes
 Qualsevol persona pot obtenir la informació pública que publica un usuari a Twitter. Per exemple, els Twits, biografia, contingut multimèdia...

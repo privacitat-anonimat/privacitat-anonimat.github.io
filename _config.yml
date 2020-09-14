@@ -32,7 +32,7 @@ twitter:
 
 social:
   name: privacitat-anonimat                  # it will shows as the copyright owner in Footer
-  email: privacitat_anonimat@protonmail.com             # change to your email address
+  email: blog_privacitat@protonmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/privacitat-anonimat       # change to your github homepage

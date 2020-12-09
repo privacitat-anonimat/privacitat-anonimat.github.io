@@ -6,7 +6,7 @@ categories: [Conceptes,Lleis]
 tags: [Twitter,privacitat]
 ---
 
-Twitter és una xarxa social molt popular on els usuaris comparteixen informació personal a través de Twits públics o privats. Per aquest motiu, és important que sàpigues què fa exactament Twitter amb la teva informació.
+Twitter és una xarxa social molt popular on els usuaris comparteixen informació personal a través de tweets públics o privats. Per aquest motiu, és important que sàpigues què fa exactament Twitter amb la teva informació.
 
 A més a més, conèixer de quina manera poden les autoritats i governs obtenir les teves converses privades, farà que t'adonis que Twitter no és un bon mètode de comunicació si vols parlar de coses sensibles.
 
@@ -18,7 +18,7 @@ Perquè tu puguis fer Tweets i interactuar amb altres usuaris, has d'utilitzar l
 * **Missatges privats**: Twitter guarda tots els missatges directes (DM) que  t'envies amb els teus contactes. Tingues en compte que en enviar un missatge es creen dues còpies, una per tu i l'altre pel destinatari. De tal manera, que encara que esborris els missatges de la teva conversa, el destinatari en té una còpia (no s'elimina per ell).
 * **Informació de pagament**: número de la targeta de crèdit o dèbit, data d'expiració, codi CVV i adreça de facturació.
 
-Twitter emmagatzema als seus servidors totes les fotografies o vídeos que puges als Twits o al perfil.
+Twitter emmagatzema als seus servidors totes les fotografies o vídeos que puges als tweets o al perfil.
 
 Encara que Twitter et deixi escollir quina informació és pública i quina no, Twitter sempre tindrà el control de tot el que publiquis o afegeixis al perfil, ja que tot i emmagatzemar la informació xifrada, els empleats tenen les claus per desxifrar-la.
 
@@ -28,17 +28,17 @@ Per a poder funcionar o si és necessari per llei, Twitter comparteix informaci�
 * **Proveïdors d'Internet**: Twitter opera amb tercers que l'ajuden a operar els serveis, empreses de hosting, d'anàlisi (Google Analytics)...
 * **Autoritats o governs**: Twitter comparteix informació amb autoritats si és necessari per complir la llei.
 * **Canvi de propietat**: si Twitter tanca, es fusiona o ven els seus actius, la informació que té emmagatzemada dels usuaris es podria utilitzar per fer la transacció.
-* **Informació no personal**: Twitter comparteix informació no personal com el nombre d'usuaris que han vist un Twit, nombre de persones que han clicat un enllaç o han votat en una enquesta, localització dels Twits...
-
+* **Informació no personal**: Twitter comparteix informació no personal com el nombre d'usuaris que han vist un Twit, nombre de persones que han clicat un enllaç o han votat en una enquesta, localització dels tweets...
+w
 # Retenció de dades
 Twitter emmagatzema informació dels Logs durant un màxim de 18 dies: IP, navegadors utilitzats, sistema operatiu...
 
-La informació del perfil i dels Twits seran emmagatzemades fins que eliminis el compte. Una vegada eliminat el compte, es guardaran durant 30 dies per si canvies d'idea, després Twitter ho eliminarà (o això diuen).
+La informació del perfil i dels tweets seran emmagatzemades fins que eliminis el compte. Una vegada eliminat el compte, es guardaran durant 30 dies per si canvies d'idea, després Twitter ho eliminarà (o això diuen).
 
-No obstant això, és possible que si busques per Google o altres cercadors, encara trobis Twits o contingut que vas pujar. Això és degut al fet que algunes pàgines guarden contingut en [caché](https://es.wikipedia.org/wiki/Cach%C3%A9_web). Per més informació sobre com eliminar-ho: [enllaç](https://help.twitter.com/en/safety-and-security/remove-twitter-profile-from-google-search).
+No obstant això, és possible que si busques per Google o altres cercadors, encara trobis tweets o contingut que vas pujar. Això és degut al fet que algunes pàgines guarden contingut en [caché](https://es.wikipedia.org/wiki/Cach%C3%A9_web). Per més informació sobre com eliminar-ho: [enllaç](https://help.twitter.com/en/safety-and-security/remove-twitter-profile-from-google-search).
 
 # Requeriments per obtenir informació sobre comptes
-Qualsevol persona pot obtenir la informació pública que publica un usuari a Twitter. Per exemple, els Twits, biografia, contingut multimèdia...
+Qualsevol persona pot obtenir la informació pública que publica un usuari a Twitter. Per exemple, els tweets, biografia, contingut multimèdia...
 
 Informació tècnica com la teva IP o DM (Missatges Directes) que enviïs a un contacte no poden ser llegits per ningú excepte tu i els destinataris.
 
@@ -52,7 +52,7 @@ Informació privada fa referència a la teva IP, que permetria a la policia iden
 Autoritats i governs podrien aconseguir-la si aconsegueixen una **citació, una ordre judicial o qualsevol notificació judicial** vàlida.
 
 ## Contingut de les comunicacions
-Contingut de les comunicacions fa referència totes les converses privades (DM) que has tingut amb altres usuaris de Twitter, fotografies o Twits que hagis publicat, independentment de si el teu compte és públic o privat.
+Contingut de les comunicacions fa referència totes les converses privades (DM) que has tingut amb altres usuaris de Twitter, fotografies o tweets que hagis publicat, independentment de si el teu compte és públic o privat.
 
 Autoritats i governs les poden obtenir si presenten una **ordre de registre** vàlida emesa per una autoritat amb jurisdicció i competència sobre Twitter.
 

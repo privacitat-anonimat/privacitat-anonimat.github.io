@@ -143,7 +143,7 @@ Una vegada descarregat, només hauràs d'arrossegar l'aplicació a la carpeta d'
 ## Linux
 A diferència de Windows i MacOS, l'aplicació de ProtonVPN per Linux encara no té interfície gràfica. Tot i això, no t'espantis, ja que és molt fàcil d'instal·lar i d'utilitzar.
 
-Si vols més informació, la pots trobar al repositori de (Github)(https://github.com/ProtonVPN/linux-cli).
+Si vols més informació, la pots trobar al repositori de [Github](https://github.com/ProtonVPN/linux-cli).
 
 A continuació t'expliquem com instal·lar-ho a les distribucions de Debian, Ubuntu o derivats.
 

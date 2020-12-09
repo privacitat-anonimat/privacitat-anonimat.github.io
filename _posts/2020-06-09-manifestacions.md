@@ -22,7 +22,7 @@ Una cosa que has de tenir molt clara és que qualsevol mòbil o ordinador que no
 
 Per aquest motiu, és molt important que t'asseguris que el teu telèfon mòbil estigui xifrat. Si el tens xifrat, encara que la policia et confisqui el telèfon, no podrà llegir-ne el contingut (sempre que no sàpiguen la contrasenya).
 
-A Android es pot xifrat anant a les opcions del telèfon, seguretat i xifratge. Els mòbils amb iOS superiors a l'iphone3G ja té el disc dur xifrat per defecte. És important però que posis una contrasenya que sigui complicada i de més de 8 caràcters de longitud. Pensa que l'esglaó més dèbil sempre serà la contrasenya, però això ha de ser una que sigui forta i que no la puguin esbrinar.
+A Android es pot xifrat anant a les opcions del telèfon, seguretat i xifratge. Els mòbils amb iOS superiors a l'iPhone 3G ja té el disc dur xifrat per defecte. És important però que posis una contrasenya que sigui complicada i de més de 8 caràcters de longitud. Pensa que l'esglaó més dèbil sempre serà la contrasenya, però això ha de ser una que sigui forta i que no la puguin esbrinar.
 
 Has de tenir en compte que la targeta de memòria possiblement no es xifri i s'hagi de xifrar a part o directament no es pugui xifrar. Si a la targeta de memòria només hi guardes fotografies de les teves vacances, no hi hauria gaire problema si la confisquen. Davant del dubte, sempre la pots treure i deixar-la a casa.
 
@@ -54,15 +54,15 @@ De cap manera utilitzis SMS o trucades de telèfon, ja que la policia podria arr
 ## Fer còpia de seguretat
 Fer còpies periòdiques de seguretat del telèfon mòbil sempre és recomanat. Si no les fas periòdicament, fes-ne una abans d'assistir a una manifestació o protesta, ja que així evites perdre tot el que tens al mòbil si el perds, te'l roben o te'l confisquen.
 
-El final, una còpia de seguretat no deixa de ser copiar les teves fotos, arxius descarregats o missatges a un altre disc dur segur. Existeixen programes que et fan les còpies, tot i que també es pot fer manualment.
-
-## Vestir adequadament
-La majoria de forces de seguretat i empreses d'espionatge tenen tecnologia sofisticada que permet identificar als manifestants sense que ells ho sàpiguen. És important que vesteixis de manera adequada per mantenir-te anònima i protegir-te físicament.
+Al final, una còpia de seguretat no deixa de ser copiar les teves fotos, arxius descarregats o missatges a un altre disc dur segur. Existeixen programes que et fan les còpies, tot i que també es pot fer manualment.
 
 ### No portar roba descriptiva
 Portar la mateixa roba que tothom dificulta la identificació durant la manifestació i evita que puguin seguir-te una vegada desconvocada. Vestir amb roba fosca i monocromàtica no només ajuda a protegir el teu anonimat, sinó que també protegeix a les altres persones que s'estan manifestant amb tu.
 
 És recomanable també portar roba de recanvi per posar-te una vegada la manifestació hagi acabat, ja que et pots haver exposat a gas pebre o similars durant la protesta. És intel·ligent canviar-se de roba, per evitar estar incomoda, de cami a casa.
+
+No portis res que sigui característic o roba molt llempant, com per exemple anar de vermell o portar un llaç groc al cap. Ja que les autoritats i els sistemes de reconeixement facial poden identificar-te fàcilment.
+
 
 ### Cobrir característiques que t'identifiquin
 Igual que els reconeixements facial o el dactilar, també s'estan desenvolupant altres tècniques per identificar a ciutadans. Una d'elles és el [reconeixement de tatuatges](https://www.eff.org/pages/tattoo-recognition). Aquesta tecnologia encara està verda, però té el suport de agències d'espionatge, governs i empreses privades. Els investigadors entrenen a algorismes utilitzant fotografies de presos o fotos extretes de les xarxes socials per detectar tatuatges.
